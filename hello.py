@@ -2,11 +2,7 @@
 
 
 def greet() -> str:
-    """Return the greeting the program prints.
-
-    TODO (bounty): return the string "Hello, World!".
-    """
-    raise NotImplementedError("Claim the bounty and implement greet()")
+    return "Hello, World!"
 
 
 def main() -> None:
